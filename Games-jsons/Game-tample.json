@@ -2,501 +2,501 @@
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "انجيلو",
-        "response": "1"
+        "name": "1"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "غول",
-        "response": "2"
+        "name": "2"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "ذئب",
-        "response": "3"
+        "name": "3"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "اشد",
-        "response": "4"
+        "name": "4"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "اقصي",
-        "response": "5"
+        "name": "5"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "اغنى",
-        "response": "6"
+        "name": "6"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "مرض",
-        "response": "7"
+        "name": "7"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "فقر",
-        "response": "8"
+        "name": "8"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "حزن",
-        "response": "9"
+        "name": "9"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "فرح",
-        "response": "10"
+        "name": "10"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "حسنات",
-        "response": "11"
+        "name": "11"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الكيمياء",
-        "response": "12"
+        "name": "12"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الفيزياء",
-        "response": "13"
+        "name": "13"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "العلم",
-        "response": "14"
+        "name": "14"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "انسان",
-        "response": "15"
+        "name": "15"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "ملاك",
-        "response": "16"
+        "name": "16"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "شيطان",
-        "response": "17"
+        "name": "17"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الكذب",
-        "response": "18"
+        "name": "18"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "السعي",
-        "response": "19"
+        "name": "19"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الجهل",
-        "response": "20"
+        "name": "20"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الجوع",
-        "response": "21"
+        "name": "21"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "سوريا",
-        "response": "22"
+        "name": "22"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "ملك",
-        "response": "23"
+        "name": "23"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "امير",
-        "response": "24"
+        "name": "24"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "قطة",
-        "response": "25"
+        "name": "25"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "ثعلب",
-        "response": "26"
+        "name": "26"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "سياره",
-        "response": "27"
+        "name": "27"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "فن",
-        "response": "28"
+        "name": "28"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "رزق",
-        "response": "29"
+        "name": "29"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "سيئات",
-        "response": "30"
+        "name": "30"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "ارض",
-        "response": "31"
+        "name": "31"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "قمر",
-        "response": "32"
+        "name": "32"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "برد",
-        "response": "33"
+        "name": "33"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الياس",
-        "response": "34"
+        "name": "34"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "عصير",
-        "response": "35"
+        "name": "35"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "حقيقة",
-        "response": "36"
+        "name": "36"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "حقيبة",
-        "response": "37"
+        "name": "37"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "رسم",
-        "response": "38"
+        "name": "38"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "طالب",
-        "response": "39"
+        "name": "39"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "كتاب",
-        "response": "40"
+        "name": "40"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "مارس",
-        "response": "41"
+        "name": "41"
     },
 {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "دوق",
-        "response": "42"
+        "name": "42"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "اعدام",
-        "response": "43"
+        "name": "43"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "سجن",
-        "response": "44"
+        "name": "44"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "كفر",
-        "response": "45"
+        "name": "45"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "اليس",
-        "response": "46"
+        "name": "46"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "ارسطو",
-        "response": "47"
+        "name": "47"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "فنان",
-        "response": "48"
+        "name": "48"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "عاشق",
-        "response": "49"
+        "name": "49"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "سماء",
-        "response": "50"
+        "name": "50"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "موسي",
-        "response": "51"
+        "name": "51"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "MG",
-        "response": "52"
+        "name": "52"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الفجر",
-        "response": "53"
+        "name": "53"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "العصر",
-        "response": "54"
+        "name": "54"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "السحر",
-        "response": "55"
+        "name": "55"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الخيال",
-        "response": "56"
+        "name": "56"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الوهم",
-        "response": "57"
+        "name": "57"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "آي",
-        "response": "58"
+        "name": "58"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "ارثر",
-        "response": "59"
+        "name": "59"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "عطارد",
-        "response": "60"
+        "name": "60"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الخبث",
-        "response": "61"
+        "name": "61"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "العطف",
-        "response": "62"
+        "name": "62"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الشجاعه",
-        "response": "63"
+        "name": "63"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "العفو",
-        "response": "64"
+        "name": "64"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "البصر",
-        "response": "65"
+        "name": "65"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الصبر",
-        "response": "66"
+        "name": "66"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "حواس",
-        "response": "67"
+        "name": "67"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "السمع",
-        "response": "68"
+        "name": "68"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الحرير",
-        "response": "69"
+        "name": "69"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الرقه",
-        "response": "70"
+        "name": "70"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الذكور",
-        "response": "71"
+        "name": "71"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "النساء",
-        "response": "72"
+        "name": "72"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الخمر",
-        "response": "73"
+        "name": "73"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الخميس",
-        "response": "74"
+        "name": "74"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "اليوم",
-        "response": "75"
+        "name": "75"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "رمضان",
-        "response": "76"
+        "name": "76"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الشم",
-        "response": "77"
+        "name": "77"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "احساس",
-        "response": "78"
+        "name": "78"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "العزم",
-        "response": "79"
+        "name": "79"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الخلق",
-        "response": "80"
+        "name": "80"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "توحد",
-        "response": "81"
+        "name": "81"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "بكاء",
-        "response": "82"
+        "name": "82"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "جمال",
-        "response": "83"
+        "name": "83"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "لعنة",
-        "response": "84"
+        "name": "84"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "اليل",
-        "response": "85"
+        "name": "85"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "شعر",
-        "response": "86"
+        "name": "86"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "عين",
-        "response": "87"
+        "name": "87"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "ساحر",
-        "response": "88"
+        "name": "88"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "سيف",
-        "response": "89"
+        "name": "89"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "خالد",
-        "response": "90"
+        "name": "90"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الاثنين",
-        "response": "91"
+        "name": "91"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "شمعة",
-        "response": "92"
+        "name": "92"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "حقل",
-        "response": "93"
+        "name": "93"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "برج",
-        "response": "94"
+        "name": "94"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "ايميليا",
-        "response": "95"
+        "name": "95"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "فانيلا",
-        "response": "96"
+        "name": "96"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "المريخ",
-        "response": "97"
+        "name": "97"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "روبي",
-        "response": "98"
+        "name": "98"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "الفا",
-        "response": "99"
+        "name": "99"
     },
     {
         "img": "https://i.ibb.co/r2RJvWy/blob.jpg",
         "question": "جبريل",
-        "response": "100"
+        "name": "100"
     }
 ]
