@@ -79,6 +79,38 @@
       "choice_3": "تركض على طول الطريق.",
       "correct_answer": 1,
       "image_url": "https://i.ibb.co/9stf2pr/blob.jpg"
+    },
+    {
+      "question": "بينما كنت تركض، تعرضت للإصابة. ماذا ستفعل؟",
+      "choice_1": "توقف لتضميد الجرح.",
+      "choice_2": "تستمر في الركض رغم الألم.",
+      "choice_3": "تبحث عن مكان للاختباء.",
+      "correct_answer": 1,
+      "image_url": "https://i.ibb.co/9stf2pr/blob.jpg"
+    },
+    {
+      "question": "لاحظت وجود شخص غريب في الطريق. ماذا ستفعل؟",
+      "choice_1": "تقترب منه وتطلب المساعدة.",
+      "choice_2": "تبتعد بهدوء لتجنب المشاكل.",
+      "choice_3": "تهجم عليه للحصول على معلومات.",
+      "correct_answer": 2,
+      "image_url": "https://i.ibb.co/9stf2pr/blob.jpg"
+    },
+    {
+      "question": "أثناء هروبك، فقدت الخريطة. كيف ستواصل؟",
+      "choice_1": "تبحث عن خريطة أخرى في المنطقة.",
+      "choice_2": "تتبع الحظ وتعتمد على معرفتك بالمنطقة.",
+      "choice_3": "ترجع إلى المنزل لتستعيد الخريطة.",
+      "correct_answer": 2,
+      "image_url": "https://i.ibb.co/9stf2pr/blob.jpg"
+    },
+    {
+      "question": "وصلت إلى نقطة توقف في الغابة. ماذا ستفعل؟",
+      "choice_1": "تستريح لبضع دقائق.",
+      "choice_2": "تواصل السير دون توقف.",
+      "choice_3": "تبحث عن مأوى لتختبئ فيه.",
+      "correct_answer": 1,
+      "image_url": "https://i.ibb.co/9stf2pr/blob.jpg"
     }
   ]
 }
