@@ -16,143 +16,223 @@
         "answer": "روبي"
     },
     {
-        "question": "ساسكي",
-        "answer": "ساسكي"
+        "question": "آي",
+        "answer": "آي"
     },
     {
         "question": "ناروتو",
         "answer": "ناروتو"
     },
     {
-        "question": "الفا",
-        "answer": "الفا"
-    },
-    {       
-        "question": "شادو",
-        "answer": "شادو"
+        "question": "ساسكي",
+        "answer": "ساسكي"
     },
     {
-        "question": "بايجو",
-        "answer": "بايجو"
+        "question": "ساكورا",
+        "answer": "ساكورا"
     },
     {
-        "question": "اياتو",
-        "answer": "اياتو"
+        "question": "كاكاشي",
+        "answer": "كاكاشي"
     },
     {
-        "question": "ساينو",
-        "answer": "ساينو"
+        "question": "ايتاشي",
+        "answer": "ايتاشي"
     },
     {
-        "question": "شاو",
-        "answer": "شاو"
+        "question": "لوفي",
+        "answer": "لوفي"
     },
     {
-        "question": "هوتاو",
-        "answer": "هوتاو"
+        "question": "زورو",
+        "answer": "زورو"
     },
     {
-        "question": "ديهيا",
-        "answer": "ديهيا"
+        "question": "نامي",
+        "answer": "نامي"
     },
     {
-        "question": "مونا",
-        "answer": "مونا"
+        "question": "سانجي",
+        "answer": "سانجي"
     },
     {
-        "question": "نيوفيليت",
-        "answer": "نيوفيليت"
+        "question": "يوسوب",
+        "answer": "يوسوب"
     },
     {
-        "question": "ارليكينو",
-        "answer": "ارليكينو"
+        "question": "تشوبر",
+        "answer": "تشوبر"
     },
     {
-        "question": "سيتلالي",
-        "answer": "سيتلالي"
+        "question": "لاو",
+        "answer": "لاو"
     },
     {
-        "question": "الهيثم",
-        "answer": "الهيثم"
+        "question": "غون",
+        "answer": "غون"
     },
     {
-        "question": "ناهيدا",
-        "answer": "ناهيدا"
+        "question": "كيلوا",
+        "answer": "كيلوا"
     },
     {
-        "question": "فورينا",
-        "answer": "فورينا"
+        "question": "كورابيكا",
+        "answer": "كورابيكا"
     },
     {
-        "question": "فيوليت",
-        "answer": "فيوليت"
+        "question": "ليوريو",
+        "answer": "ليوريو"
     },
     {
-        "question": "اغريس",
-        "answer": "اغريس"
+        "question": "ايرين",
+        "answer": "ايرين"
     },
     {
-        "question": "مادارا",
-        "answer": "مادارا"
+        "question": "ميكاسا",
+        "answer": "ميكاسا"
     },
     {
-        "question": "فيودور",
-        "answer": "فيودور"
+        "question": "ليفاي",
+        "answer": "ليفاي"
     },
     {
-        "question": "لومين",
-        "answer": "لومين"
+        "question": "آرمين",
+        "answer": "آرمين"
     },
     {
-        "question": "سيل",
-        "answer": "سيل"
+        "question": "ريوك",
+        "answer": "ريوك"
     },
     {
-        "question": "دازاي",
-        "answer": "دازاي"
+        "question": "لايت",
+        "answer": "لايت"
     },
     {
-        "question": "توجي",
-        "answer": "توجي"
+        "question": "إل",
+        "answer": "إل"
     },
     {
-        "question": "ساتورو",
-        "answer": "ساتورو"
+        "question": "ميلو",
+        "answer": "ميلو"
+    },
+    {
+        "question": "إدوارد",
+        "answer": "إدوارد"
+    },
+    {
+        "question": "ألفونس",
+        "answer": "ألفونس"
+    },
+    {
+        "question": "وينري",
+        "answer": "وينري"
+    },
+    {
+        "question": "ماي",
+        "answer": "ماي"
+    },
+    {
+        "question": "رين",
+        "answer": "رين"
+    },
+    {
+        "question": "يوكي",
+        "answer": "يوكي"
+    },
+    {
+        "question": "كانامي",
+        "answer": "كانامي"
+    },
+    {
+        "question": "زيرو",
+        "answer": "زيرو"
+    },
+    {
+        "question": "هيكارو",
+        "answer": "هيكارو"
+    },
+    {
+        "question": "كاورو",
+        "answer": "كاورو"
+    },
+    {
+        "question": "هاروهي",
+        "answer": "هاروهي"
+    },
+    {
+        "question": "تاماكي",
+        "answer": "تاماكي"
+    },
+    {
+        "question": "كيون",
+        "answer": "كيون"
+    },
+    {
+        "question": "هاروهي سوزوميا",
+        "answer": "هاروهي سوزوميا"
+    },
+    {
+        "question": "شينجي",
+        "answer": "شينجي"
+    },
+    {
+        "question": "ري",
+        "answer": "ري"
+    },
+    {
+        "question": "أسكا",
+        "answer": "أسكا"
+    },
+    {
+        "question": "ماكوتو",
+        "answer": "ماكوتو"
+    },
+    {
+        "question": "هيرو",
+        "answer": "هيرو"
+    },
+    {
+        "question": "دوروثي",
+        "answer": "دوروثي"
+    },
+    {
+        "question": "يوجي",
+        "answer": "يوجي"
     },
     {
         "question": "غوجو",
         "answer": "غوجو"
     },
     {
-        "question": "بيوول",
-        "answer": "بيووول"
+        "question": "نوبارا",
+        "answer": "نوبارا"
     },
     {
-        "question": "سونغ",
-        "answer": "سونغ"
+        "question": "ميغومي",
+        "answer": "ميغومي"
     },
     {
-        "question": "يويميا",
-        "answer": "يويميا"
+        "question": "تودو",
+        "answer": "تودو"
     },
     {
-        "question": "مافويكا",
-        "answer": "مافويكا"
+        "question": "سابتورا",
+        "answer": "سابتورا"
     },
     {
-        "question": "ليلي",
-        "answer": "ليلي"
+        "question": "جينتوكي",
+        "answer": "جينتوكي"
     },
     {
-        "question": "سيدو",
-        "answer": "سيدو"
+        "question": "كاجورا",
+        "answer": "كاجورا"
     },
     {
-        "question": "ايثر",
-        "answer": "ايثر"
+        "question": "شينباشي",
+        "answer": "شينباشي"
     },
     {
-        "question": "آي",
-        "answer": "آي"
+        "question": "تاكاسوغي",
+        "answer": "تاكاسوغي"
     }
 ]
